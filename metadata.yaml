@@ -1,0 +1,37 @@
+_repo: Great-Pirate-Stories_27090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates'
+- !lcc 'G'
+tableOfContents: 'The Piccaroon. By Scott. -- The Capture of Panama, 1671. By Esquemeling.
+  -- The Malay Proas. By Cooper. -- The Wonderful Fight of the Exchange of Bristol
+  with the Pirates of Algiers. By Purchas. -- The Daughter of the Great Mogul. By
+  Defoe. -- Barbarossa—King of the Corsairs. By Currey. -- Morgan at Puerto Bello.
+  By Esquemeling. -- The Ways of the Buccaneers. By Masefield after Esquemeling. --
+  A True Account of Three Notorious Pirates. By Pyle, Ed. -- Narrative of the Capture
+  of the Ship Derby, 1735 By Captain Anselm. -- Francis Lolonois, the Slave Who Became
+  a Pirate King. By Esquemeling. -- The Fight between the Dorrill and the Moca --
+  Jaddi the Malay Pirate -- The Terrible Ladrones. By Glasspoole. -- The Female Captive.
+  By Parker. -- The Passing of Mogul Mackenzie, the Last of the North Atlantic Pirates.
+  By Chute. -- The Last of the Sea-Rovers: The Riff Coast Pirates. By Lord.'
+title: Great Pirate Stories
+url: http://www.gutenberg.org/ebooks/27090
